@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yaaaaam1, u can call me Penny.
+- 👋 Hi, I’m Penny.
 - 👀 I’m interested in doing data science for social good.
 - 🌱 I’m currently learning BERT, eager to learn some image analysis to imrpove myself.
 - 💞️ I’m looking to collaborate on more tasks related to social good.
