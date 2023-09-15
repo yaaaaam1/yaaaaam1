@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Penny.
-- 👀 I’m interested in doing data science for social good.
-- 🌱 I’m currently writing recommender system and segmentation system for my company.
+- 👀 Enjoying doing data science for social good, I have a team [Lightwill website](https://lightwill2.cms.webnode.tw/) for helping NPOs.
+- 🌱 I’m working as [Pinkoi](https://www.pinkoi.com/) data scientist - AI.
 - 💞️ I’m looking to collaborate on more tasks related to social good.
 - 📫 How to reach me --> Check my profile down below👇
 
